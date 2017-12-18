@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+}
+
+td {
+    width: 20px;
+    height: 20px;
+}
+
+.blank {
+    background-color: blank;
+}
+
+.snake {
+    background-color: white;
+}
+
+.wall {
+    background-color: green;
+}
+
+.fruit {
+    background-color: red;
+}
+
+h1 {
+    font: normal 20px monospace;
+    color: white;
+}
